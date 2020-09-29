@@ -1,0 +1,59 @@
+body { 
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h1 { 
+    font-size: 3.7rem;
+    line-height: 1.5;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+h3 { 
+    font-size: 1.7rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.navbar { 
+    padding: 0 0 4.5rem;
+}
+
+.nav-item { 
+    padding: 0 15px;
+}
+
+.navbar-brand { 
+    font-size: 1.8rem;
+}
+
+.container-fluid { 
+    padding: 3% 12%;
+}
+
+#title { 
+    background-color: #008891;
+}
+
+.download-button { 
+    margin-right: 10px;
+}
+
+.title-image { 
+    width: 80%;
+}
+
+#features { 
+    text-align: center;
+    padding: 5% 10%;
+}
+
+.fas { 
+    margin-bottom: 10px;
+    color: #008891;
+}
+
+.fas:hover { 
+    color: #00587a;
+}
