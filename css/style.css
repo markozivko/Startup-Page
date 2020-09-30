@@ -10,10 +10,23 @@ h1 {
     margin-bottom: 20px;
 }
 
+h2 { 
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 2.3rem;
+    padding-top: 2%;
+}
+
+
 h3 { 
     font-size: 1.7rem;
     line-height: 1.5;
     font-weight: bold;
+}
+
+.steps-description { 
+    width: 60%;
+    margin: 0 auto 0 auto;
 }
 
 .navbar { 
@@ -41,16 +54,44 @@ h3 {
 }
 
 .title-image { 
-    width: 80%;
+    width: 120%;
+}
+
+.testimonials-img { 
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
 }
 
 #features { 
     text-align: center;
+    padding: 5% 15%;
+}
+
+#testimonials { 
+    text-align: center;
+    background-color: #e7e7de;
+}
+
+.carousel-item { 
     padding: 5% 10%;
 }
 
+#press { 
+    background-color: #e7e7de;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.press-logo { 
+    width: 12%;
+    margin: 20px 20px 50px;
+}
+
 .fas { 
-    margin-bottom: 10px;
+    margin-top: 50px;
+    margin-bottom: 30px;
     color: #008891;
 }
 
