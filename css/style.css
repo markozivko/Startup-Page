@@ -84,6 +84,26 @@ h3 {
 
 }
 
+#pricing1 { 
+    padding: 70px 100px 100px 100px;
+}
+
+#pricing2 { 
+    padding: 70px 100px 70px 100px;
+}
+
+.pricing-plan { 
+    text-align: center;
+}
+
+.card { 
+    margin-bottom: 50px;
+}
+
+.p-header { 
+    font-size: 0.8rem;
+}
+
 .press-logo { 
     width: 12%;
     margin: 20px 20px 50px;
