@@ -85,16 +85,17 @@ h3 {
 }
 
 #pricing1 { 
-    padding: 70px 100px 20px 100px;
+    padding: 10px 100px 20px 100px;
 }
 
 #pricing2 { 
-    padding: 70px 100px 70px 100px;
+    padding: 20px 100px 70px 100px;
 }
 
 .pricing-plan { 
     text-align: center;
     margin: 10px;
+    margin-bottom: 5%;
 }
 
 .card { 
@@ -110,10 +111,40 @@ h3 {
     margin: 20px 20px 50px;
 }
 
+#cta { 
+    background-color: #008891;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.final-message { 
+    margin-bottom: 5%;
+}
+
+#footer { 
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
 .fas { 
     margin-top: 50px;
     margin-bottom: 30px;
     color: #008891;
+}
+
+.fa-envelope { 
+    color: black;
+}
+
+
+.social-icon { 
+    margin: 10px 20px 20px;
+}
+
+.social-icon:hover { 
+    color: #00587a;
 }
 
 .fas:hover { 
